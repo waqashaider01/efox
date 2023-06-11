@@ -1,0 +1,12 @@
+.users-side-nav button {
+    border: 0px;
+    background-color: #00a4e5;
+    color: #fff;
+    margin-bottom: 5px;
+    padding: 2px 12px;
+    border-radius: 4px;
+}
+.users-side-nav button:hover {
+    color: #fff;
+    background-color: #12779f;
+}

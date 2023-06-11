@@ -1,0 +1,65 @@
+.auction-card .card {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border: 0px !important;
+}
+.auction-card .card-title a {
+    text-decoration: none;
+    color: #00a4e5;
+    font-size: 14px;
+}
+.auction-card .card-body span {
+    font-size: 14px;
+}
+.auction-card .card-body {
+    background-color: #f8f8f8;
+}
+.auction-card-btn {
+    background-color: #00a4e5;
+    color: #fff;
+    font-size: 12px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 4px;
+    padding: 3px 8px;
+    border: 0px;
+}
+.auction-card .content {
+    text-align: center;
+    margin-top: 10px;
+}
+.auction-card .content p {
+    margin-bottom: 3px !important;
+}
+.auction-card .content .location {
+    color: #555;
+    font-size: 14px;
+}
+.auction-card .content .location {
+    font-size: 12px;
+}
+.auction-card .content .location i {
+    color: #00a4e5;
+    font-size: 12px;
+}
+.auction-card .content .time {
+    font-size: 12px;
+}
+.auction-card .content .time span {
+    font-size: 12px;
+    font-weight: 600;
+    color: #000;
+}
+.auction-card .btn-danger {
+    width: 100%;
+    background-color: #f44235 !important;
+}
+.latest-ads .page-item.active .page-link {
+    background-color: #f44235 !important;
+    border: 1px solid #f44235 !important;
+    color: #fff !important;
+}
+.latest-ads .page-item .page-link {
+    color: #6c757d !important;
+}
+.latest-ads .page-link {
+    background-color: #f2f2f2 !important;
+}

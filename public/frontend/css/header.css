@@ -1,0 +1,104 @@
+header {
+    border: 3px solid #00a4e5;
+    border-radius: 8px;
+    padding: 8px 2px;
+}
+header .form-select {
+    border-radius: 8px !important;
+    border: 2px solid #00a4e5 !important;
+    color: #000 !important;
+    font-weight: 600;
+    font-size: 12px;
+}
+header .fa-home {
+    background-color: #49c7f5;
+    color: #fff;
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+        rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+header .sell-btn {
+    display: block;
+    width: 100px;
+    border: 4px solid;
+    border-image: linear-gradient(to right, yellow 50%, red 75%, teal 75%) 5;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+}
+/* categories */
+#categories img {
+    width: 26px;
+}
+#categories p {
+    text-transform: capitalize;
+    font-size: 12px;
+}
+#categories .category {
+    text-align: center;
+}
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+}
+.top-nav .logo img {
+    width: 240px;
+}
+.top-nav .right-nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    height: auto;
+}
+.top-nav .social-links {
+    display: flex;
+    justify-content: end;
+}
+.top-nav .social-links a img {
+    width: 25px;
+    margin-left: 5px;
+}
+.top-nav .auth-links {
+    font-size: 12px;
+    text-align: end;
+    margin-top: 5px;
+}
+.top-nav .auth-links p {
+    margin-bottom: 5px;
+}
+.top-nav .auth-links p a {
+    color: #7ba849;
+    text-decoration: none;
+}
+.quick-search {
+    width: 160px !important;
+}
+.quick-search input {
+    border-radius: 8px !important;
+    border: 2px solid #000 !important;
+    color: #000 !important;
+    font-weight: 600;
+    font-size: 12px;
+    padding-left: 30px;
+}
+.header-input {
+    border-radius: 8px !important;
+    border: 2px solid #00a4e5 !important;
+    color: #000 !important;
+    font-weight: 600;
+    font-size: 12px;
+}
+.quick-search .input-group-text {
+    position: absolute;
+    z-index: 10;
+    background-color: transparent !important;
+    border: none !important;
+    margin-top: 3px;
+}

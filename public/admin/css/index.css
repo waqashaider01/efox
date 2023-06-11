@@ -1,0 +1,28 @@
+.analytics-card .card-body {
+    padding: 10px !important;
+}
+.analytics-card .content {
+    text-align: right;
+}
+.analytics-card .time {
+    font-size: 12px;
+}
+.analytics-card .time small {
+    color: #777;
+}
+.analytics-card .ads i {
+    color: #d24e3b;
+    font-size: 30px;
+}
+.analytics-card .auctions i {
+    color: #50ab5e;
+    font-size: 30px;
+}
+.analytics-card .users i {
+    color: #79c4c1;
+    font-size: 30px;
+}
+.analytics-card .income i {
+    color: #6bcd99;
+    font-size: 30px;
+}

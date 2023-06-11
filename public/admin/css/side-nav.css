@@ -1,0 +1,26 @@
+.side-nav {
+    border: 1px solid #ddd;
+}
+.side-nav ul {
+    list-style: none;
+    padding: 0px 10px !important;
+}
+.side-nav ul li a {
+    color: #000;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+}
+.side-nav ul li {
+    padding: 0px 0px;
+}
+.side-nav ul li span {
+    display: inline-block;
+    font-size: 12px;
+    height: 20px;
+    width: 20px;
+    line-height: 16px;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+}

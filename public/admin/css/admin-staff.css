@@ -1,0 +1,13 @@
+.staff-card {
+    border-radius: 0px !important;
+}
+.staff-card .card-header {
+    padding: 0px 4px !important;
+}
+.staff-card .card-body {
+    padding: 0px 4px !important;
+}
+.staff-card b {
+    font-size: 14px;
+    font-weight: 600;
+}
